@@ -1,0 +1,5 @@
+{
+  "name": "LeilaTask AI",
+  "description": "A clean, Material Design 3 inspired personal task management application designed for a mobile-first experience. Features full CRUD, offline-first local storage, and intelligent task sorting/filtering.",
+  "requestFramePermissions": []
+}
